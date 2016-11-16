@@ -1,0 +1,2 @@
+# MYEASYWRITING
+GitHub Pages
