@@ -632,8 +632,12 @@ h6,
 #menu-b .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
-#video2-1n DIV {
-  font-size: 20px;
+#header2-1p H3 {
+  color: #000000;
+  font-size: 46px;
+}
+#gallery4-1s LI {
+  text-align: right;
 }
 #msg-box8-c .mbr-section-title,
 #msg-box8-c p {
