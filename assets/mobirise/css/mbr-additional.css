@@ -560,8 +560,6 @@ h6,
 #header3-6 B {
   font-size: 20px;
   text-align: right;
-}
-#header2-y H3 {
   color: #000000;
 }
 #header3-9 .mbr-section-title,
@@ -633,6 +631,9 @@ h6,
 #menu-b .link[aria-expanded="true"],
 #menu-b .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
+}
+#video2-1n DIV {
+  font-size: 20px;
 }
 #msg-box8-c .mbr-section-title,
 #msg-box8-c p {
