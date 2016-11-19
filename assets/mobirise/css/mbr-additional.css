@@ -561,6 +561,9 @@ h6,
   font-size: 20px;
   text-align: right;
 }
+#header2-y H3 {
+  color: #000000;
+}
 #header3-9 .mbr-section-title,
 #header3-9 .mbr-section-subtitle {
   text-align: center;
